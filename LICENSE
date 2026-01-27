@@ -1,6 +1,10 @@
-MIT License
+MIT License (Research-Oriented Clarification Addendum)
 
-Copyright (c) 2026 harshkhambrajr
+Copyright (c) 2026 Harsh Khambra (@harshkhambrajr)
+
+---
+
+## MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +23,84 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Research & Safety Clarification (Non-Binding Addendum)
+
+> This section is **not a restriction** on the MIT License.
+> It is a clarification of intent, scope, and responsible use philosophy
+> for contributors, researchers, and downstream users.
+
+### 1. Purpose of This Software
+
+This software is intended as a **research and experimentation platform** for:
+
+* cognitive architectures
+* modular intelligence systems
+* simulations
+* learning and reasoning experiments
+
+It is **not** intended to be represented as:
+
+* Artificial General Intelligence (AGI)
+* Artificial Super Intelligence (ASI)
+* a conscious or autonomous decision-making authority
+
+### 2. No Claims of Intelligence or Sentience
+
+The author makes **no claim** that this software:
+
+* is intelligent in a human sense
+* possesses awareness, intent, or consciousness
+* operates independently of human oversight
+
+Any such claims made by third parties are **not endorsed** by the author.
+
+### 3. Real-World Deployment
+
+The software is designed primarily for:
+
+* simulations
+* sandboxed environments
+* research experimentation
+
+Use of this software in **real-world autonomous systems** (physical, financial,
+medical, military, or social control systems) is **strongly discouraged** unless
+accompanied by appropriate safety, legal, and ethical review.
+
+### 4. Responsibility of Use
+
+Users and contributors acknowledge that:
+
+* advanced computational systems can have unintended consequences
+* responsibility for downstream use lies with the user
+* safety mechanisms included in the project should not be removed lightly
+
+### 5. Attribution & Stewardship
+
+While the MIT License permits broad reuse, the author requests that:
+
+* attribution to **Harsh Khambra** be preserved
+* the original research intent not be misrepresented
+* derivative projects clearly state modifications and scope changes
+
+(This request is ethical in nature and does not override MIT permissions.)
+
+### 6. Evolving Research Context
+
+This project may evolve over time. Concepts, terminology, and architectural
+choices should be understood as **experimental and provisional**, not final
+claims about intelligence or reality.
+
+---
+
+## Summary
+
+* The **MIT License remains fully valid and unchanged**
+* This addendum exists to promote clarity, responsibility, and honest research
+* No additional legal restrictions are imposed beyond MIT
+
+---
+
+© 2026 Harsh Khambra
